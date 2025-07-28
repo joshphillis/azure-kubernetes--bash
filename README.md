@@ -1,4 +1,4 @@
-# azure-kubernetes--bash
+# azure-terraform--bash
 
 # 🔐 Terraform Azure Linux VM Lab
 
